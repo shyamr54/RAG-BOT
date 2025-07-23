@@ -1,0 +1,19 @@
+Sample Q&A Runs for Simple RAG System
+
+Q1: What is LangChain?
+A1: LangChain is a framework for developing applications powered by language models. It enables applications such as chatbots, Generative Question-Answering (GQA), summarization, and more.
+
+Q2: What is FAISS used for?
+A2: FAISS is a library for efficient similarity search and clustering of dense vectors. It is commonly used as a vector store in retrieval-augmented generation pipelines.
+
+Q3: What does LangGraph do?
+A3: LangGraph is a library for building stateful, multi-actor applications with LLMs. It is designed to work with LangChain and provides a graph-based approach to orchestrating workflows. 
+
+Q: What are some common applications of Python?
+A: Python is widely used for web development (using frameworks like Django and Flask), data analysis (with libraries such as Pandas and NumPy), machine learning (using scikit-learn, TensorFlow, and PyTorch), and automation or scripting tasks.
+
+Q: What is supervised learning in machine learning?
+A: Supervised learning is a type of machine learning where models are trained on labeled data. This means the input data is paired with the correct output, and the model learns to map inputs to outputs for tasks like classification and regression.
+
+Q: What are the essential skills for a data scientist?
+A: Essential skills for a data scientist include programming (Python or R), knowledge of statistics and probability, data visualization (using tools like Matplotlib and Seaborn), machine learning, and strong communication and storytelling abilities. 
